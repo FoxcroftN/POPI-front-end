@@ -1,0 +1,31 @@
+/*HEADERS*/
+#heading-1 {
+	margin-top: 5rem;
+	text-align: center;
+}
+
+#heading-3 {
+	margin-top: 2rem;
+	text-align: center;
+}
+
+#heading-4 {
+	margin-top: 2rem;
+	text-align: center;
+}
+
+/*INPUT AREA*/
+#input-area {
+	margin-top: 5rem;
+	text-align: center;
+}
+
+#upload-button {
+	margin-left: 10rem;
+}
+
+/*FILE INFO AREA*/
+#text-info {
+	margin-left: 30%;
+	margin-top: 5rem;
+}
