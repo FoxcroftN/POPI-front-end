@@ -1,0 +1,22 @@
+/*CARD OF REGISTER FORM*/
+
+.register-form {
+	justify-content: center;
+	min-height: 90vh;
+}
+
+.button-block {
+	width: 100%;
+}
+
+.register-background {
+	justify-content: center;
+	min-height: 30vh;
+	padding: 50px;
+}
+
+/*LINK TO SIGN IN PAGE*/
+
+#RegisterHeading {
+	margin-bottom: 2.5rem;
+}

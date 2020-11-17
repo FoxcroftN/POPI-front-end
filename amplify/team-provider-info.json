@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-popifrontend-dev-222037-authRole",
+      "UnauthRoleArn": "arn:aws:iam::433102245367:role/amplify-popifrontend-dev-222037-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::433102245367:role/amplify-popifrontend-dev-222037-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-popifrontend-dev-222037-deployment",
+      "UnauthRoleName": "amplify-popifrontend-dev-222037-unauthRole",
+      "StackName": "amplify-popifrontend-dev-222037",
+      "StackId": "arn:aws:cloudformation:eu-west-2:433102245367:stack/amplify-popifrontend-dev-222037/5c625370-2912-11eb-b32b-0aabefb3624a",
+      "AmplifyAppId": "d398lhe449y63o"
+    }
+  }
+}

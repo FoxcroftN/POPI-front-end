@@ -1,0 +1,41 @@
+/*CARD OF LOGIN FORM*/
+
+.login-form {
+	justify-content: center;
+	min-height: 90vh;
+}
+.button-block {
+	width: 100%;
+}
+.login-background {
+	justify-content: center;
+	min-height: 30vh;
+	padding: 50px;
+}
+
+/*LINK TO SIGN IN PAGE*/
+#LoginHeading {
+	margin-bottom: 2.5rem;
+}
+
+/* THEME STYLING */
+/*
+	orange: ff7315
+	white: f4f4f4
+	grey: 3a3535
+	darkgrey: 232020
+	
+*/
+
+.Body {
+	background-color: #3a3535;
+}
+
+#app-bar {
+	background-color: #ff7315;
+}
+
+#button-sub {
+	background-color: #ff7315;
+	color: #f4f4f4;
+}
